@@ -3,8 +3,9 @@ High School Project I made back in 2022. Which is supposed to be a parody of Sup
 
 ##**How to Run**
 1. Download files
-2. Go to ScuffBombman and again ScuffBombman
+2. Go to ScuffBombman 
 3. To bin
 4. Debug
 5. Launch ScuffBombman.exe
 
+Everything this in the project was created by me and a teammate.
